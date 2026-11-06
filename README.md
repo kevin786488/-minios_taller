@@ -7,8 +7,10 @@ Actualización de **MiniOS v2.0** a **MiniOS v3.0**, incorporando arquitectura m
 ## 1. Integrantes y Compilación
 
 ### Integrantes
-- Integrante 1: *(Completar nombre / código)*
-- Integrante 2: *(Completar nombre / código)*
+- Luis Alejandro Santander Balanta
+- Kevin Cano Medina
+- Daniel Angulo
+- Ivan Caiza
 
 ### Requisitos y Cómo Compilar
 El proyecto compila en Linux (Ubuntu / Kali / Debian) con `gcc` usando las banderas `-Wall -Wextra` sin ninguna advertencia.
