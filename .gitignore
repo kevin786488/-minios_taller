@@ -1,2 +1,7 @@
 build/
+datos/
+disk/
 minios
+*.o
+*.swp
+*.swo
